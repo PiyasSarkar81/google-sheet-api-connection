@@ -1,4 +1,4 @@
-# Connecting Google Sheets with Python Using Google Cloud Credentials
+# ☁️ Connecting Google Sheets with Python Using Google Cloud Credentials
 
 ## Overview
 This guide explains how to use Python to interact with Google Sheets using the `gspread` library and Google Cloud credentials. You will learn how to authenticate, access a Google Sheet, write data, apply formulas, and format cells.
